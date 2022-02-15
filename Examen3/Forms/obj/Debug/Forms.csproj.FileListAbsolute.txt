@@ -1,0 +1,10 @@
+C:\Users\JADPA01\Downloads\Examen3\Forms\bin\Debug\Forms.exe.config
+C:\Users\JADPA01\Downloads\Examen3\Forms\bin\Debug\Forms.exe
+C:\Users\JADPA01\Downloads\Examen3\Forms\bin\Debug\Forms.pdb
+C:\Users\JADPA01\Downloads\Examen3\Forms\obj\Debug\Forms.csprojAssemblyReference.cache
+C:\Users\JADPA01\Downloads\Examen3\Forms\obj\Debug\Forms.FrmPersonas.resources
+C:\Users\JADPA01\Downloads\Examen3\Forms\obj\Debug\Forms.Properties.Resources.resources
+C:\Users\JADPA01\Downloads\Examen3\Forms\obj\Debug\Forms.csproj.GenerateResource.cache
+C:\Users\JADPA01\Downloads\Examen3\Forms\obj\Debug\Forms.csproj.CoreCompileInputs.cache
+C:\Users\JADPA01\Downloads\Examen3\Forms\obj\Debug\Forms.exe
+C:\Users\JADPA01\Downloads\Examen3\Forms\obj\Debug\Forms.pdb
